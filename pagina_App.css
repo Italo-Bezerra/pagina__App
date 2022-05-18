@@ -1,0 +1,1118 @@
+@import url('https://fonts.googleapis.com/css2? family = Oswald & display = swap');
+
+.iphone-prin{
+	position: relative;
+	left: 300px;
+	top: 20px;
+	height:550px;
+}
+.iphone-prin1{
+	position: relative;
+	left: 130px;
+	top: -20px;
+	height:550px;
+}
+.iphone-prin2{
+	position: relative;
+	left: -320px;
+	top: 20px;
+	height:550px;
+}
+.app{
+	position: relative;
+	font-size: 18px;
+	top: 10px;
+	left: 10px;
+	color: white;
+
+}
+.desconto{
+	position: absolute;
+	left: 950px;
+	top: 555px;
+	width: 390px;
+	font-size:17px;
+}
+.plataform{
+	position: absolute;
+	left: 950px;
+	top: 640px;
+	font-size: 18px;
+
+}
+.app1{
+	position: relative;
+	left: 40px;
+	top: 6px;
+}
+.app2{
+	position: relative;
+	left: 70px;
+	top: 6px;
+}
+
+#conjunto{
+	background-color: #9e7e70;
+	width: 350px;
+	height: 40px;
+	position: absolute;
+	left: 950px;
+	top: 480px;
+	border-radius: 5px;
+}
+#apps{
+	background-color:white;
+	width: 350px;
+	height: 50px;
+	position: absolute;
+	left: 960px;
+	top: 700px;
+  	border-radius : 10px;
+  	box-shadow: 0 0 20px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.6);
+}
+@media (width:240px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:1px;
+}
+.iphone-prin1{
+	display:none;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:5px;
+	top:355px;
+	width:230px;
+	height:40px;
+}
+#conjunto{
+	left:85px;
+	top:220px;
+	width:150px;
+	height:30px;
+}
+.app{
+	font-size: 7px;
+	left:5px;
+}
+.desconto{
+	left:100px;
+	top:265px;
+	font-size:10px;
+	width:150px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:10px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:35px;
+	top:4px;
+}
+}
+
+@media (width:280px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	display:none;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:30px;
+	top:355px;
+	width:230px;
+	height:40px;
+}
+#conjunto{
+	left:120px;
+	top:220px;
+	width:150px;
+	height:30px;
+}
+.app{
+	font-size: 7px;
+	left:5px;
+}
+.desconto{
+	left:130px;
+	top:265px;
+	font-size:10px;
+	width:150px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:10px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:35px;
+	top:4px;
+}
+}
+
+@media (width:320px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	display:none;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:30px;
+	top:355px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:120px;
+	top:220px;
+	width:180px;
+	height:30px;
+}
+.app{
+	font-size: 8.5px;
+	left:7px;
+}
+.desconto{
+	left:120px;
+	top:265px;
+	font-size:13px;
+	width:196px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:360px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:50px;
+	top:355px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:155px;
+	top:220px;
+	width:180px;
+	height:30px;
+}
+.app{
+	font-size: 8.5px;
+	left:7px;
+}
+.desconto{
+	left:155px;
+	top:265px;
+	font-size:13px;
+	width:196px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:375px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:60px;
+	top:355px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:155px;
+	top:220px;
+	width:200px;
+	height:30px;
+}
+.app{
+	font-size: 10px;
+	left:5px;
+}
+.desconto{
+	left:160px;
+	top:265px;
+	font-size:14px;
+	width:196px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:384px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:60px;
+	top:355px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:155px;
+	top:220px;
+	width:200px;
+	height:30px;
+}
+.app{
+	font-size: 10px;
+	left:5px;
+}
+.desconto{
+	left:160px;
+	top:265px;
+	font-size:14px;
+	width:196px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:411px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:80px;
+	top:355px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:155px;
+	top:220px;
+	width:240px;
+	height:30px;
+}
+.app{
+	font-size: 12px;
+	left:7px;
+}
+.desconto{
+	left:170px;
+	top:262px;
+	font-size:16px;
+	width:196px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:412px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:80px;
+	top:355px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:155px;
+	top:220px;
+	width:240px;
+	height:30px;
+}
+.app{
+	font-size: 12px;
+	left:7px;
+}
+.desconto{
+	left:170px;
+	top:262px;
+	font-size:16px;
+	width:196px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:414px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:80px;
+	top:355px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:155px;
+	top:220px;
+	width:240px;
+	height:30px;
+}
+.app{
+	font-size: 12px;
+	left:7px;
+}
+.desconto{
+	left:170px;
+	top:262px;
+	font-size:16px;
+	width:196px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:427px) {
+
+.iphone-prin{
+	width:100px;
+	height:150px;
+	left:10px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:80px;
+	top:355px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:155px;
+	top:220px;
+	width:240px;
+	height:30px;
+}
+.app{
+	font-size: 12px;
+	left:7px;
+}
+.desconto{
+	left:170px;
+	top:262px;
+	font-size:16px;
+	width:196px;
+}
+.plataform{
+	display:none;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:480px) {
+
+.iphone-prin{
+	width:130px;
+	height:290px;
+	left:10px;
+	top:-5px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:200px;
+	top:460px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:210px;
+	top:220px;
+	width:240px;
+	height:30px;
+}
+.app{
+	font-size: 12px;
+	left:7px;
+}
+.desconto{
+	left:216px;
+	top:270px;
+	font-size:18px;
+	width:196px;
+}
+.plataform{
+	top:400px;
+	left:210px;
+	font-size:14px;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:540px) {
+
+.iphone-prin{
+	width:130px;
+	height:290px;
+	left:10px;
+	top:-5px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:230px;
+	top:460px;
+	width:260px;
+	height:40px;
+}
+#conjunto{
+	left:250px;
+	top:220px;
+	width:240px;
+	height:30px;
+}
+.app{
+	font-size: 12px;
+	left:7px;
+}
+.desconto{
+	left:256px;
+	top:270px;
+	font-size:18px;
+	width:196px;
+}
+.plataform{
+	top:400px;
+	left:220px;
+	font-size:14px;
+}
+.app1{
+	width:90px;
+	height:30px;
+	left:25px;
+	top:4px;
+}
+.app2{
+	width:90px;
+	height:30px;
+	left:55px;
+	top:4px;
+}
+}
+@media (width:600px) {
+
+.iphone-prin{
+	width:130px;
+	height:290px;
+	left:10px;
+	top:-5px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:210px;
+	top:380px;
+	width: 350px;
+	height: 50px;
+}
+#conjunto{
+	left:190px;
+	top:200px;
+	width: 350px;
+	height: 50px;
+}
+.app{
+	font-size: 18px;
+	left:10px;
+	top:15px;
+}
+.desconto{
+	left:186px;
+	top:280px;
+	width: 400px;
+	font-size:20px;
+}
+.plataform{
+	display:none
+}
+.app1{
+	left:40px;
+}
+.app2{
+	left:85px;
+}
+}
+@media (width:640px) {
+
+.iphone-prin{
+	width:130px;
+	height:290px;
+	left:10px;
+	top:-5px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:210px;
+	top:380px;
+	width: 350px;
+	height: 50px;
+}
+#conjunto{
+	left:190px;
+	top:200px;
+	width: 350px;
+	height: 50px;
+}
+.app{
+	font-size: 18px;
+	left:10px;
+	top:15px;
+}
+.desconto{
+	left:186px;
+	top:280px;
+	width: 400px;
+	font-size:20px;
+}
+.plataform{
+	display:none
+}
+.app1{
+	left:40px;
+}
+.app2{
+	left:85px;
+}
+}
+@media (width:768px) {
+
+.iphone-prin{
+	width:230px;
+	height:390px;
+	left:10px;
+	top:-5px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:360px;
+	top:720px;
+	width: 350px;
+	height: 50px;
+}
+#conjunto{
+	left:360px;
+	top:450px;
+	width: 350px;
+	height: 50px;
+}
+.app{
+	font-size: 18px;
+	left:10px;
+	top:15px;
+}
+.desconto{
+	left:356px;
+	top:530px;
+	width: 400px;
+	font-size:20px;
+}
+.plataform{
+	top:640px;
+	left:360px;
+	font-size: 19px;
+}
+.app1{
+	left:40px;
+}
+.app2{
+	left:85px;
+}
+strong{
+	font-size:18px;
+}
+}
+@media (width:800px) {
+
+.iphone-prin{
+	width:230px;
+	height:390px;
+	left:10px;
+	top:-5px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:-60px;
+	top:5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:360px;
+	top:720px;
+	width: 350px;
+	height: 50px;
+}
+#conjunto{
+	left:360px;
+	top:450px;
+	width: 350px;
+	height: 50px;
+}
+.app{
+	font-size: 18px;
+	left:10px;
+	top:15px;
+}
+.desconto{
+	left:356px;
+	top:530px;
+	width: 400px;
+	font-size:20px;
+}
+.plataform{
+	top:640px;
+	left:360px;
+	font-size: 19px;
+}
+.app1{
+	left:40px;
+}
+.app2{
+	left:85px;
+}
+strong{
+	font-size:18px;
+}
+}
+@media (width:1080px) {
+
+.iphone-prin{
+	width:230px;
+	height:390px;
+	left:150px;
+	top:-5px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:70px;
+	top:-5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:540px;
+	top:720px;
+	width: 350px;
+	height: 50px;
+}
+#conjunto{
+	left:540px;
+	top:450px;
+	width: 350px;
+	height: 50px;
+}
+.app{
+	font-size: 18px;
+	left:10px;
+	top:15px;
+}
+.desconto{
+	left:540px;
+	top:530px;
+	width: 400px;
+	font-size:22px;
+}
+.plataform{
+	top:640px;
+	left:540px;
+	font-size: 21px;
+}
+.app1{
+	left:40px;
+}
+.app2{
+	left:85px;
+}
+strong{
+	font-size:18px;
+}
+}
+@media (width:1024px) {
+
+.iphone-prin{
+	width:230px;
+	height:390px;
+	left:150px;
+	top:-5px;
+}
+.iphone-prin1{
+	width:100px;
+	height:150px;
+	left:70px;
+	top:-5px;
+}
+.iphone-prin2{
+	display:none;
+}
+#apps{
+	left:540px;
+	top:720px;
+	width: 350px;
+	height: 50px;
+}
+#conjunto{
+	left:540px;
+	top:450px;
+	width: 350px;
+	height: 50px;
+}
+.app{
+	font-size: 18px;
+	left:10px;
+	top:15px;
+}
+.desconto{
+	left:540px;
+	top:530px;
+	width: 400px;
+	font-size:22px;
+}
+.plataform{
+	top:640px;
+	left:540px;
+	font-size: 21px;
+}
+.app1{
+	left:40px;
+}
+.app2{
+	left:85px;
+}
+strong{
+	font-size:18px;
+}
+}
+@media (width:1280px) {
+#apps{
+	left:740px;
+	top:750px;
+	width: 350px;
+	height: 50px;
+}
+#conjunto{
+	left:740px;
+	top:450px;
+	width: 350px;
+	height: 50px;
+}
+.app{
+	font-size: 18px;
+	left:10px;
+	top:15px;
+}
+.desconto{
+	left:740px;
+	top:530px;
+	width: 400px;
+	font-size:22px;
+}
+.plataform{
+	top:660px;
+	left:740px;
+	font-size: 21px;
+}
+.app1{
+	left:40px;
+}
+.app2{
+	left:85px;
+}
+strong{
+	font-size:18px;
+}
+}
+@media (width:1366px) {
+#apps{
+	left:740px;
+	top:750px;
+	width: 350px;
+	height: 50px;
+}
+#conjunto{
+	left:740px;
+	top:450px;
+	width: 350px;
+	height: 50px;
+}
+.app{
+	font-size: 18px;
+	left:10px;
+	top:15px;
+}
+.desconto{
+	left:740px;
+	top:530px;
+	width: 400px;
+	font-size:22px;
+}
+.plataform{
+	top:660px;
+	left:740px;
+	font-size: 21px;
+}
+.app1{
+	left:40px;
+}
+.app2{
+	left:85px;
+}
+strong{
+	font-size:18px;
+}
+}
